@@ -5,13 +5,13 @@ class Solution {
         int smallest = Integer.MAX_VALUE;
         int secondSmallest = Integer.MAX_VALUE;
          for(int i =0 ; i<nums.length; i++){
-            if(nums[i] >= largest){
+            if(nums[i] > largest){
                 secondLargest = largest;
                 largest = nums[i];
             }else if(nums[i] > secondLargest){
                 secondLargest  = nums[i];
             }
-            if(nums[i] <= smallest){
+            if(nums[i] < smallest){
                 secondSmallest = smallest;
                 smallest = nums[i];
             }
