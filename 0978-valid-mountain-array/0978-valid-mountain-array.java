@@ -20,7 +20,7 @@ class Solution {
                 }
             }
         }
-        else if(arr[0] >= arr[1]){
+        else {
             return false;
         }
         
