@@ -66,8 +66,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0978-valid-mountain-array](https://github.com/tathagata125/DSA-problems/tree/master/0978-valid-mountain-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/tathagata125/DSA-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Sorting
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Math
+|  |
+| ------- |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/tathagata125/DSA-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/tathagata125/DSA-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
