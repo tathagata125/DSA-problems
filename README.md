@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/tathagata125/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/tathagata125/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/tathagata125/DSA-problems/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/tathagata125/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/tathagata125/DSA-problems/tree/master/0344-reverse-string) |
 ## Depth-First Search
 |  |
