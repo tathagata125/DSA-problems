@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tathagata125/DSA-problems/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/tathagata125/DSA-problems/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/tathagata125/DSA-problems/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/tathagata125/DSA-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/tathagata125/DSA-problems/tree/master/0238-product-of-array-except-self) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/tathagata125/DSA-problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tathagata125/DSA-problems/tree/master/0268-missing-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/tathagata125/DSA-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Prefix Sum
