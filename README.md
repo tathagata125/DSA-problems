@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/tathagata125/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tathagata125/DSA-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tathagata125/DSA-problems/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/tathagata125/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/tathagata125/DSA-problems/tree/master/0415-add-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/tathagata125/DSA-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Depth-First Search
@@ -130,12 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tathagata125/DSA-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tathagata125/DSA-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tathagata125/DSA-problems/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/tathagata125/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/tathagata125/DSA-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/tathagata125/DSA-problems/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/tathagata125/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/tathagata125/DSA-problems/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/tathagata125/DSA-problems/tree/master/0415-add-strings) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tathagata125/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
