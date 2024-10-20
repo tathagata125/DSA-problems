@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/tathagata125/DSA-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tathagata125/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/tathagata125/DSA-problems/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/tathagata125/DSA-problems/tree/master/0162-find-peak-element) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/tathagata125/DSA-problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/tathagata125/DSA-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/tathagata125/DSA-problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tathagata125/DSA-problems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/tathagata125/DSA-problems/tree/master/0415-add-strings) |
@@ -162,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/tathagata125/DSA-problems/tree/master/0048-rotate-image) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tathagata125/DSA-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
