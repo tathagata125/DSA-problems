@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/tathagata125/DSA-problems/tree/master/0777-toeplitz-matrix) |
 | [0907-koko-eating-bananas](https://github.com/tathagata125/DSA-problems/tree/master/0907-koko-eating-bananas) |
 | [0978-valid-mountain-array](https://github.com/tathagata125/DSA-problems/tree/master/0978-valid-mountain-array) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/tathagata125/DSA-problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/tathagata125/DSA-problems/tree/master/1603-running-sum-of-1d-array) |
@@ -170,5 +171,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tathagata125/DSA-problems/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/tathagata125/DSA-problems/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/tathagata125/DSA-problems/tree/master/0777-toeplitz-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tathagata125/DSA-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
