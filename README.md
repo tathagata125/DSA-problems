@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/tathagata125/DSA-problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/tathagata125/DSA-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/tathagata125/DSA-problems/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/tathagata125/DSA-problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/tathagata125/DSA-problems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/tathagata125/DSA-problems/tree/master/0415-add-strings) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/tathagata125/DSA-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/tathagata125/DSA-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tathagata125/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tathagata125/DSA-problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/tathagata125/DSA-problems/tree/master/0070-climbing-stairs) |
 ## Simulation
 |  |
 | ------- |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/tathagata125/DSA-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tathagata125/DSA-problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/tathagata125/DSA-problems/tree/master/0455-assign-cookies) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tathagata125/DSA-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
