@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/tathagata125/DSA-problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/tathagata125/DSA-problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/tathagata125/DSA-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/tathagata125/DSA-problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tathagata125/DSA-problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/tathagata125/DSA-problems/tree/master/0268-missing-number) |
@@ -211,5 +212,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/tathagata125/DSA-problems/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/tathagata125/DSA-problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
