@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/tathagata125/DSA-problems/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tathagata125/DSA-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tathagata125/DSA-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0547-number-of-provinces](https://github.com/tathagata125/DSA-problems/tree/master/0547-number-of-provinces) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Linked List
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/tathagata125/DSA-problems/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tathagata125/DSA-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/tathagata125/DSA-problems/tree/master/0547-number-of-provinces) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Array
 |  |
@@ -217,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/tathagata125/DSA-problems/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/tathagata125/DSA-problems/tree/master/1013-fibonacci-number) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/tathagata125/DSA-problems/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/tathagata125/DSA-problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
