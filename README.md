@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/tathagata125/DSA-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/tathagata125/DSA-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tathagata125/DSA-problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/tathagata125/DSA-problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tathagata125/DSA-problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/tathagata125/DSA-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/tathagata125/DSA-problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tathagata125/DSA-problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tathagata125/DSA-problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/tathagata125/DSA-problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Greedy
 |  |
 | ------- |
