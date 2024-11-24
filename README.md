@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/tathagata125/DSA-problems/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tathagata125/DSA-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/tathagata125/DSA-problems/tree/master/0547-number-of-provinces) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Array
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/tathagata125/DSA-problems/tree/master/0777-toeplitz-matrix) |
 | [0907-koko-eating-bananas](https://github.com/tathagata125/DSA-problems/tree/master/0907-koko-eating-bananas) |
 | [0978-valid-mountain-array](https://github.com/tathagata125/DSA-problems/tree/master/0978-valid-mountain-array) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tathagata125/DSA-problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/tathagata125/DSA-problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tathagata125/DSA-problems/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/tathagata125/DSA-problems/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/tathagata125/DSA-problems/tree/master/0777-toeplitz-matrix) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tathagata125/DSA-problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tathagata125/DSA-problems/tree/master/2132-convert-1d-array-into-2d-array) |
