@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/tathagata125/DSA-problems/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0098-validate-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/tathagata125/DSA-problems/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tathagata125/DSA-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/tathagata125/DSA-problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/tathagata125/DSA-problems/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/tathagata125/DSA-problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/tathagata125/DSA-problems/tree/master/0048-rotate-image) |
