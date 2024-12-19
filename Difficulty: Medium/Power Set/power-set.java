@@ -31,21 +31,27 @@ System.out.println("~");
 //User function Template for Java
 
 class Solution
-{   List<String>res;
-    public void powerSet(String s,String  out, int idx){
-        if(idx == s.length()){
-            res.add(out);
-            return;
-        }
-        powerSet(s,out+s.charAt(idx),idx+1);
-        powerSet(s,out,idx+1);
-    }
+{
     public List<String> AllPossibleStrings(String s)
-    {   
-        res = new ArrayList<>();
-        powerSet(s,"",0);
-        Collections.sort(res);
-        return res;
-        
+    {
+        List<String> result = getSubsequences(s,0);
+        Collections.sort(result);
+        result.remove(0);
+        return result;
     }
+    public List<String> getSubsequences(String s, int idx){
+        if(idx == s.length()){
+            List<String> result = new ArrayList<>();
+            result.add("");
+            return result;
+        }
+        List<String>r = getSubsequences(s,idx + 1);
+        int n = r.size();
+        for(int  i = 0; i<n; i++){
+            String ses = s.charAt(idx) + r.get(i);
+            r.add(ses);
+        }
+        return r;
+    }
+    
 }
