@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/tathagata125/DSA-problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/tathagata125/DSA-problems/tree/master/0907-koko-eating-bananas) |
 | [0978-valid-mountain-array](https://github.com/tathagata125/DSA-problems/tree/master/0978-valid-mountain-array) |
+| [1022-unique-paths-iii](https://github.com/tathagata125/DSA-problems/tree/master/1022-unique-paths-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tathagata125/DSA-problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/tathagata125/DSA-problems/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/tathagata125/DSA-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tathagata125/DSA-problems/tree/master/0287-find-the-duplicate-number) |
+| [1022-unique-paths-iii](https://github.com/tathagata125/DSA-problems/tree/master/1022-unique-paths-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/tathagata125/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/tathagata125/DSA-problems/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/tathagata125/DSA-problems/tree/master/0777-toeplitz-matrix) |
+| [1022-unique-paths-iii](https://github.com/tathagata125/DSA-problems/tree/master/1022-unique-paths-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tathagata125/DSA-problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -289,4 +292,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/tathagata125/DSA-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tathagata125/DSA-problems/tree/master/0090-subsets-ii) |
+| [1022-unique-paths-iii](https://github.com/tathagata125/DSA-problems/tree/master/1022-unique-paths-iii) |
 <!---LeetCode Topics End-->
