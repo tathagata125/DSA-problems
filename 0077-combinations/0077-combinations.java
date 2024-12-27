@@ -1,22 +1,21 @@
 class Solution {
     List<List<Integer>> com;
-    void getAllCom(int n, int k, List<Integer>output){
+    void getAllCom(int n, int k, List<Integer>output,int last){
         if(k == 0){
             com.add(new ArrayList<>(output));
             return;
         }
-        if( n == 0 || k > n){
-            return;
+        
+        for(int item = last + 1 ; item <= n ; item++){
+            output.add(item);
+            getAllCom( n,  k-1, output, item);
+            output.remove(output.size()-1);
         }
-        output.add(n);
-        getAllCom( n-1,  k-1, output);
-        output.remove(output.size() - 1);
-        getAllCom( n-1,  k, output);
     }
     public List<List<Integer>> combine(int n, int k) {
         com = new ArrayList<>();
         List<Integer>output = new ArrayList<>();
-        getAllCom(n,k,output);
+        getAllCom(n,k,output,0);
         return com;
     }
 }
