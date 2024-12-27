@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/tathagata125/DSA-problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/tathagata125/DSA-problems/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/tathagata125/DSA-problems/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/tathagata125/DSA-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/tathagata125/DSA-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tathagata125/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tathagata125/DSA-problems/tree/master/0054-spiral-matrix) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/tathagata125/DSA-problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/tathagata125/DSA-problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tathagata125/DSA-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tathagata125/DSA-problems/tree/master/0090-subsets-ii) |
