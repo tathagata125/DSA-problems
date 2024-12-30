@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tathagata125/DSA-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/tathagata125/DSA-problems/tree/master/0043-multiply-strings) |
+| [0079-word-search](https://github.com/tathagata125/DSA-problems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/tathagata125/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tathagata125/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tathagata125/DSA-problems/tree/master/0242-valid-anagram) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tathagata125/DSA-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/tathagata125/DSA-problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/tathagata125/DSA-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/tathagata125/DSA-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tathagata125/DSA-problems/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tathagata125/DSA-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tathagata125/DSA-problems/tree/master/0162-find-peak-element) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tathagata125/DSA-problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tathagata125/DSA-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/tathagata125/DSA-problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/tathagata125/DSA-problems/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tathagata125/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/tathagata125/DSA-problems/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/tathagata125/DSA-problems/tree/master/0777-toeplitz-matrix) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/tathagata125/DSA-problems/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/tathagata125/DSA-problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tathagata125/DSA-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/tathagata125/DSA-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tathagata125/DSA-problems/tree/master/0090-subsets-ii) |
 | [1022-unique-paths-iii](https://github.com/tathagata125/DSA-problems/tree/master/1022-unique-paths-iii) |
 | [1331-path-with-maximum-gold](https://github.com/tathagata125/DSA-problems/tree/master/1331-path-with-maximum-gold) |
