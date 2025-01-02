@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tathagata125/DSA-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0838-design-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/0838-design-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -322,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/tathagata125/DSA-problems/tree/master/0090-subsets-ii) |
 | [1022-unique-paths-iii](https://github.com/tathagata125/DSA-problems/tree/master/1022-unique-paths-iii) |
 | [1331-path-with-maximum-gold](https://github.com/tathagata125/DSA-problems/tree/master/1331-path-with-maximum-gold) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
