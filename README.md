@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/tathagata125/DSA-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/tathagata125/DSA-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/tathagata125/DSA-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tathagata125/DSA-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/tathagata125/DSA-problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Sorting
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/tathagata125/DSA-problems/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/tathagata125/DSA-problems/tree/master/1013-fibonacci-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/tathagata125/DSA-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/tathagata125/DSA-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -237,11 +239,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/tathagata125/DSA-problems/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/tathagata125/DSA-problems/tree/master/0498-diagonal-traverse) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tathagata125/DSA-problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/tathagata125/DSA-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tathagata125/DSA-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tathagata125/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/tathagata125/DSA-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
 | ------- |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/tathagata125/DSA-problems/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/tathagata125/DSA-problems/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/tathagata125/DSA-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Union Find
 |  |
 | ------- |
