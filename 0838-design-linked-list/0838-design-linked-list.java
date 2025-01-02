@@ -3,6 +3,7 @@
 
 class ListNode {
     int val;
+    ListNode prev; 
     ListNode next;
 }
 
@@ -36,6 +37,7 @@ class MyLinkedList {
             head = tail = node;
         } else {
             node.next = head;
+            head.prev = node;
             head = node;
         }
     }
@@ -49,6 +51,7 @@ class MyLinkedList {
             head = tail = node;
         } else {
             tail.next = node;
+            node.prev = tail;
             tail = node;
         }
     }
@@ -69,36 +72,51 @@ class MyLinkedList {
 
         ListNode node = new ListNode();
         node.val = val;
-        ListNode prev = getNode(index - 1);
+        ListNode pre = getNode(index - 1);
         size++;
-        node.next = prev.next;
-        prev.next = node;
+        node.next = pre.next;
+        node.prev = pre;
+        pre.next = node;
+        node.next.prev = node;
     }
-
+    public void deleteTail(){
+        size -- ;
+        if(size == 0){
+            head = tail = null;
+            return;
+        }
+        tail = tail.prev;
+        tail.next = null;
+    }
     public void deleteAtIndex(int index) {
         if (index < 0 || index >= size)
             return;
 
-        size--;
-        if (size == 0) {
-            // empty linked list
-            head = tail = null;
-            return;
-        }
+        
 
         if (index == 0) {
             // delete head node
+            size--;
+            if(size == 0){
+                head = tail = null;
+                return;
+            }
+            else{
             head = head.next;
+            head.prev = null;
+            return;
+            }
+        }
+        else if(index == size - 1){
+            deleteTail();
             return;
         }
+        size--;
+        ListNode node = getNode(index );
+        node.prev.next = node.next;
+        node.next.prev = node.prev;
 
-        ListNode prev = getNode(index - 1);
-        prev.next = prev.next.next;
-
-        if (index == size) {
-            // delete tail node
-            tail = prev;
-        }
+        
     }
 }
 
