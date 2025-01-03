@@ -14,15 +14,13 @@ public class Solution {
         ListNode first = head;
         ListNode second = head;
         int count = 0;
-        if(head == null ||head.next == null  ){
-            return false;
-        }
-        while(first != null && second != null ){
-             if(first == second && count != 0)return true;
+        
+        while(second != null && second.next != null ){
+            
             first = first.next;
-            if(second.next == null)return false;
+            
             second = second.next.next;
-            count++;
+             if(first == second)return true;
            
         }
         return false;
