@@ -26,17 +26,11 @@ class Solution {
                 
             }
         }
-        while(list2 != null){
+        if(list1 != null)tail.next = list1;
+        else {
             tail.next = list2;
-            tail = list2;
-            list2 = list2.next;
+
         }
-        while(list1 != null){
-               tail.next = list1;
-                tail = list1;
-                list1 = list1.next;
-        }
-        tail.next = null;
         return dummy.next;
     }
 }
