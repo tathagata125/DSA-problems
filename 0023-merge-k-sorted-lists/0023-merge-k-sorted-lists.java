@@ -33,11 +33,17 @@ class Solution {
         }
         return dummy.next;
     }
-    public ListNode mergeKLists(ListNode[] lists) {
-        ListNode res = null;
-        for(ListNode head :lists){
-            res = mergeTwoLists(res,head);
+    ListNode handler(ListNode[] lists, int left, int right){
+        if(left == right){
+            return lists[left];
         }
-        return res;
+        int mid = left + (right- left)/2;
+        ListNode l1 = handler(lists, left, mid);
+        ListNode l2 = handler(lists, mid + 1, right);
+        return mergeTwoLists(l1,l2);
+    }
+    public ListNode mergeKLists(ListNode[] lists) {
+        if(lists.length == 0) return null;
+        return handler(lists,0, lists.length - 1);
     }
 }
