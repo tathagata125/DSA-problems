@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/tathagata125/DSA-problems/tree/master/0445-add-two-numbers-ii) |
 | [0838-design-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/0908-middle-of-the-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tathagata125/DSA-problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/tathagata125/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tathagata125/DSA-problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/tathagata125/DSA-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/tathagata125/DSA-problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
