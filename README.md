@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tathagata125/DSA-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tathagata125/DSA-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/tathagata125/DSA-problems/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/tathagata125/DSA-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/tathagata125/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tathagata125/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/tathagata125/DSA-problems/tree/master/0143-reorder-list) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/tathagata125/DSA-problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tathagata125/DSA-problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/tathagata125/DSA-problems/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/tathagata125/DSA-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/tathagata125/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tathagata125/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tathagata125/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
