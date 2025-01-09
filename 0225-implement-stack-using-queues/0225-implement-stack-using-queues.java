@@ -4,28 +4,17 @@ class MyStack {
     
     public void push(int x) {
        q.add(x); 
+       for(int i =1 ; i<q.size(); i++){
+            q.add(q.remove());
+       }
     }
     
     public int pop() {
-        int size = q.size() - 1;
-        while(size != 0){
-            int temp = q.remove();
-            q.add(temp);
-            size --;
-        }
         return q.remove();
     }
     
     public int top() {
-        int size = q.size() - 1;
-        while(size != 0){
-            int temp = q.remove();
-            q.add(temp);
-            size --;
-        }
-        int temp = q.remove();
-        q.add(temp);
-        return temp;
+      return q.peek();
     }
     
     public boolean empty() {
