@@ -4,32 +4,22 @@ class MyQueue {
     
     
     public void push(int x) {
+        while(actual.size() != 0){
+            extra.push(actual.pop());
+        }
         actual.push(x);
+        while(extra.size() != 0){
+            actual.add(extra.pop());
+        }
+
     }
     
     public int pop() {
-        while(actual.size() != 0){
-           extra.push( actual.pop());
-        }
-        int temp =extra.pop();
-        if(extra.size() == 0){
-            return temp;
-        }
-        while(extra.size() != 0){
-            actual.push(extra.pop());
-        }
-        return temp;
+        return actual.pop();
     }
     
     public int peek() {
-        while(actual.size() != 0){
-           extra.push( actual.pop());
-        }
-        int temp = extra.peek();
-        while(extra.size() != 0){
-            actual.push(extra.pop());
-        }
-        return temp;
+        return actual.peek();
     }
     
     public boolean empty() {
