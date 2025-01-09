@@ -41,25 +41,19 @@ System.out.println("~");
 
 
 class MyStack {
-    private int[] arr = new int[1000];
-    private int top=0;
+    ArrayList<Integer> arr = new ArrayList<>();
 
     
 
     public void push(int x) {
-        if(top  == arr.length){
-            return;
-        }
-        arr[top] = x;
-        top++;
+        arr.add(x);
         
     }
 
     public int pop() {
-        if(top == 0){
+        if(arr.size() == 0){
             return -1;
         }
-        top--;
-        return arr[top];
+        return arr.remove(arr.size()- 1);
     }
 }
