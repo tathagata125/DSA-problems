@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tathagata125/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/tathagata125/DSA-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tathagata125/DSA-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tathagata125/DSA-problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1894-merge-strings-alternately](https://github.com/tathagata125/DSA-problems/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/tathagata125/DSA-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Depth-First Search
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/tathagata125/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/tathagata125/DSA-problems/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tathagata125/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tathagata125/DSA-problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Memoization
 |  |
 | ------- |
@@ -414,4 +416,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tathagata125/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/tathagata125/DSA-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tathagata125/DSA-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tathagata125/DSA-problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
