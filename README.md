@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/tathagata125/DSA-problems/tree/master/0415-add-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tathagata125/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/tathagata125/DSA-problems/tree/master/1078-remove-outermost-parentheses) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tathagata125/DSA-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/tathagata125/DSA-problems/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/tathagata125/DSA-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Depth-First Search
@@ -412,4 +413,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/tathagata125/DSA-problems/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tathagata125/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/tathagata125/DSA-problems/tree/master/1078-remove-outermost-parentheses) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tathagata125/DSA-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
