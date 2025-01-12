@@ -38,36 +38,19 @@ class Geeks {
 class Solution {
     // Function to find the next greater element for each element of the array.
     public ArrayList<Integer> nextLargerElement(int[] arr) {
-        int[] a = new int[arr.length];
-        Stack<Integer> st = new Stack<>();
-        
-        for(int i = arr.length - 1; i>= 0 ; i--){
-            if(st.size() == 0){
-                
-                a[i] = -1;
-            }
-            else{
-                if(arr[i] >= st.peek()){
-                    while(st.size() != 0 && st.peek() <= arr[i]){
-                        st.pop();
-                    }
-                    if(st.size() == 0){
-                        a[i] = -1;
-                    }
-                    else{
-                        a[i] = st.peek();
-                    }
-                }
-                else{
-                    a[i]=st.peek();
-                }
-            }
-            st.push(arr[i]);
-        }
-        ArrayList<Integer> res = new ArrayList<>();
-        for(int i =0; i<arr.length; i++){
-            res.add(a[i]);
-        }
-        return res;
+         Stack<Integer> st = new Stack<>();
+         int[] a = new int[arr.length];
+         Arrays.fill(a,-1);
+         for(int i =0 ; i<arr.length; i++){
+             while(st.size() != 0 && arr[st.peek()]< arr[i]){
+                 a[st.pop()] = arr[i];
+             }
+             st.push(i);
+         }
+         ArrayList<Integer> aa = new ArrayList<>();
+         for(int i =0; i<arr.length; i++){
+             aa.add(a[i]);
+         }
+         return aa;
     }
 }
