@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tathagata125/DSA-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/tathagata125/DSA-problems/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/tathagata125/DSA-problems/tree/master/0658-find-k-closest-elements) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tathagata125/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/tathagata125/DSA-problems/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/tathagata125/DSA-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/tathagata125/DSA-problems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/tathagata125/DSA-problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tathagata125/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/tathagata125/DSA-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tathagata125/DSA-problems/tree/master/0287-find-the-duplicate-number) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tathagata125/DSA-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tathagata125/DSA-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/tathagata125/DSA-problems/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/tathagata125/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/tathagata125/DSA-problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/tathagata125/DSA-problems/tree/master/0860-design-circular-queue) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/tathagata125/DSA-problems/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/tathagata125/DSA-problems/tree/master/0658-find-k-closest-elements) |
 ## Backtracking
 |  |
@@ -419,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/tathagata125/DSA-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tathagata125/DSA-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tathagata125/DSA-problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tathagata125/DSA-problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
