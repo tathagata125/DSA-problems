@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/tathagata125/DSA-problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/tathagata125/DSA-problems/tree/master/0907-koko-eating-bananas) |
 | [0978-valid-mountain-array](https://github.com/tathagata125/DSA-problems/tree/master/0978-valid-mountain-array) |
+| [0983-validate-stack-sequences](https://github.com/tathagata125/DSA-problems/tree/master/0983-validate-stack-sequences) |
 | [1022-unique-paths-iii](https://github.com/tathagata125/DSA-problems/tree/master/1022-unique-paths-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/tathagata125/DSA-problems/tree/master/1331-path-with-maximum-gold) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/tathagata125/DSA-problems/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/tathagata125/DSA-problems/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/tathagata125/DSA-problems/tree/master/0735-asteroid-collision) |
+| [0983-validate-stack-sequences](https://github.com/tathagata125/DSA-problems/tree/master/0983-validate-stack-sequences) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tathagata125/DSA-problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tathagata125/DSA-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tathagata125/DSA-problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/tathagata125/DSA-problems/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/tathagata125/DSA-problems/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tathagata125/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0983-validate-stack-sequences](https://github.com/tathagata125/DSA-problems/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/tathagata125/DSA-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tathagata125/DSA-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tathagata125/DSA-problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
