@@ -6,15 +6,18 @@ class Solution {
             ways.add(output);
             return;
         }
-        int su = digit.charAt(idx) - '0';
-        for(char letter: s[su].toCharArray()){
-            paths(digit,idx+1,output+letter);
+
+        int su = digit.charAt(idx)-'0' ;
+        for(char ch : s[su].toCharArray()){
+            paths(digit,idx+1,output+ch);
         }
     }
     public List<String> letterCombinations(String digits) {
       ways = new ArrayList<>();
-      if(digits.length() == 0) return ways;
+      if(digits.length() == 0){
+        return ways;
+      }
       paths(digits,0,"");
-      return ways;  
+      return ways;
     }
 }
