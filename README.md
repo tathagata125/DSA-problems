@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-path-with-maximum-gold](https://github.com/tathagata125/DSA-problems/tree/master/1331-path-with-maximum-gold) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tathagata125/DSA-problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/tathagata125/DSA-problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/tathagata125/DSA-problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/tathagata125/DSA-problems/tree/master/1603-running-sum-of-1d-array) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/tathagata125/DSA-problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/tathagata125/DSA-problems/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/tathagata125/DSA-problems/tree/master/0937-online-stock-span) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/tathagata125/DSA-problems/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Stack
 |  |
 | ------- |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/tathagata125/DSA-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/tathagata125/DSA-problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tathagata125/DSA-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/tathagata125/DSA-problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tathagata125/DSA-problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Queue
 |  |
