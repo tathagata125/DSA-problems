@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/tathagata125/DSA-problems/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/tathagata125/DSA-problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tathagata125/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/tathagata125/DSA-problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/tathagata125/DSA-problems/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/tathagata125/DSA-problems/tree/master/0415-add-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tathagata125/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/tathagata125/DSA-problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/tathagata125/DSA-problems/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/tathagata125/DSA-problems/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tathagata125/DSA-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Union Find
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/tathagata125/DSA-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/tathagata125/DSA-problems/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/tathagata125/DSA-problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/tathagata125/DSA-problems/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/tathagata125/DSA-problems/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/tathagata125/DSA-problems/tree/master/0503-next-greater-element-ii) |
