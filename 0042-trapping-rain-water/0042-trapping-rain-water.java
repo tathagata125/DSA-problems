@@ -15,14 +15,6 @@ class Solution {
              
 
         }
-        System.out.println("greatest left");
-        for(int i =0; i<height.length; i++){
-            System.out.println(greatestL[i]);
-        }
-        System.out.println("greatest right");
-        for(int i =0; i<height.length; i++){
-            System.out.println(greatestR[height.length-i-1]);
-        }
         
         int sum =0;
         for(int i =0; i<height.length; i++){
