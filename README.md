@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tathagata125/DSA-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tathagata125/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/tathagata125/DSA-problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/tathagata125/DSA-problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/tathagata125/DSA-problems/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/tathagata125/DSA-problems/tree/master/0498-diagonal-traverse) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tathagata125/DSA-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tathagata125/DSA-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tathagata125/DSA-problems/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/tathagata125/DSA-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tathagata125/DSA-problems/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/tathagata125/DSA-problems/tree/master/0658-find-k-closest-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/tathagata125/DSA-problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/tathagata125/DSA-problems/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/tathagata125/DSA-problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/tathagata125/DSA-problems/tree/master/0435-non-overlapping-intervals) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tathagata125/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/tathagata125/DSA-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/tathagata125/DSA-problems/tree/master/1013-fibonacci-number) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/tathagata125/DSA-problems/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/tathagata125/DSA-problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/tathagata125/DSA-problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/tathagata125/DSA-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tathagata125/DSA-problems/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tathagata125/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/tathagata125/DSA-problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
