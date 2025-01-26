@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/tathagata125/DSA-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/tathagata125/DSA-problems/tree/master/1022-unique-paths-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tathagata125/DSA-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1095-two-city-scheduling](https://github.com/tathagata125/DSA-problems/tree/master/1095-two-city-scheduling) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/tathagata125/DSA-problems/tree/master/1331-path-with-maximum-gold) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tathagata125/DSA-problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/tathagata125/DSA-problems/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/tathagata125/DSA-problems/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/tathagata125/DSA-problems/tree/master/1014-k-closest-points-to-origin) |
+| [1095-two-city-scheduling](https://github.com/tathagata125/DSA-problems/tree/master/1095-two-city-scheduling) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tathagata125/DSA-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tathagata125/DSA-problems/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tathagata125/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1095-two-city-scheduling](https://github.com/tathagata125/DSA-problems/tree/master/1095-two-city-scheduling) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/tathagata125/DSA-problems/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tathagata125/DSA-problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Memoization
