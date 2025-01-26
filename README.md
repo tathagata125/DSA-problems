@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/tathagata125/DSA-problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tathagata125/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/tathagata125/DSA-problems/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tathagata125/DSA-problems/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/tathagata125/DSA-problems/tree/master/0658-find-k-closest-elements) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tathagata125/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1014-k-closest-points-to-origin](https://github.com/tathagata125/DSA-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/tathagata125/DSA-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0978-valid-mountain-array](https://github.com/tathagata125/DSA-problems/tree/master/0978-valid-mountain-array) |
 | [0983-validate-stack-sequences](https://github.com/tathagata125/DSA-problems/tree/master/0983-validate-stack-sequences) |
+| [1014-k-closest-points-to-origin](https://github.com/tathagata125/DSA-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/tathagata125/DSA-problems/tree/master/1022-unique-paths-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tathagata125/DSA-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tathagata125/DSA-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tathagata125/DSA-problems/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/tathagata125/DSA-problems/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/tathagata125/DSA-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/tathagata125/DSA-problems/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/tathagata125/DSA-problems/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/tathagata125/DSA-problems/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/tathagata125/DSA-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/tathagata125/DSA-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tathagata125/DSA-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
@@ -505,4 +510,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/tathagata125/DSA-problems/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/tathagata125/DSA-problems/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
