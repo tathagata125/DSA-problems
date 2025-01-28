@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tathagata125/DSA-problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/tathagata125/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0931-maximum-frequency-stack](https://github.com/tathagata125/DSA-problems/tree/master/0931-maximum-frequency-stack) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tathagata125/DSA-problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/tathagata125/DSA-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/tathagata125/DSA-problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/tathagata125/DSA-problems/tree/master/0860-design-circular-queue) |
+| [0931-maximum-frequency-stack](https://github.com/tathagata125/DSA-problems/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/tathagata125/DSA-problems/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tathagata125/DSA-problems/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Stack
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/tathagata125/DSA-problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/tathagata125/DSA-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tathagata125/DSA-problems/tree/master/0739-daily-temperatures) |
+| [0931-maximum-frequency-stack](https://github.com/tathagata125/DSA-problems/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/tathagata125/DSA-problems/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/tathagata125/DSA-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tathagata125/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -522,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/tathagata125/DSA-problems/tree/master/1014-k-closest-points-to-origin) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/tathagata125/DSA-problems/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
