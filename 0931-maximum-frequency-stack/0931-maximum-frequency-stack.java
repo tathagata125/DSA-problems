@@ -29,8 +29,6 @@ class FreqStack {
             freqNode.remove(maxFreq);
             
             maxFreq--;
-        }else{
-            freqNode.put(maxFreq,nodes);
         }
         return max;
     }
