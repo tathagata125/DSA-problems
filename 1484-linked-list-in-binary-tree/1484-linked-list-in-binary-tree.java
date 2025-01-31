@@ -24,28 +24,17 @@
  * }
  */
 class Solution {
-    // Helper function to check if the linked list matches the path in the tree
-    boolean checkPath(ListNode head, TreeNode root) {
-        if (head == null) return true;  // We've matched all nodes in the list
-        if (root == null) return false; // Tree node is null but list is not matched
-        
-        // If the current tree node matches the current linked list node
-        if (root.val == head.val) {
-            // Recursively check the left and right subtrees
-            return checkPath(head.next, root.left) || checkPath(head.next, root.right);
-        }
-        
-        // If the values don't match, return false
-        return false;
+
+    boolean dfs(TreeNode root,ListNode head){
+        if(head == null)return true;
+        if(root == null)return false;
+        if(root.val != head.val)return false;
+        return dfs(root.left, head.next) || dfs(root.right,head.next);
     }
-
     public boolean isSubPath(ListNode head, TreeNode root) {
-        if (root == null) return false; // Empty tree case
-
-        // Try the path starting from the current node
-        if (checkPath(head, root)) return true;
-        
-        // Otherwise, recursively check the left and right subtrees
-        return isSubPath(head, root.left) || isSubPath(head, root.right);
+        if(root == null)return false;
+        if(root == null)return false;
+        if(dfs(root, head))return true;
+        return isSubPath(head, root.left) || isSubPath(head,root.right);
     }
 }
