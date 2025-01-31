@@ -17,9 +17,9 @@ class Solution {
     int sum =0;
     int diff(TreeNode root){
         if(root == null)return 0;
-        int left = root.val +  diff(root.left);
+        int left =   diff(root.left);
          int right = diff(root.right);
-        return left + right;
+        return root.val + left + right;
     }
     public int findTilt(TreeNode root) {
         if(root == null)return 0;
