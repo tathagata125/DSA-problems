@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Two Pointers
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/tathagata125/DSA-problems/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tathagata125/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1484-linked-list-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Linked List
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/tathagata125/DSA-problems/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1767-design-front-middle-back-queue](https://github.com/tathagata125/DSA-problems/tree/master/1767-design-front-middle-back-queue) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
