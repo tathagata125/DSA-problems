@@ -19,14 +19,12 @@ class Solution {
         if(root == null)return 0;
         int left =   diff(root.left);
          int right = diff(root.right);
+        int tilt = Math.abs(left - right);
+        sum += tilt;
         return root.val + left + right;
     }
     public int findTilt(TreeNode root) {
-        if(root == null)return 0;
-       root.val =Math.abs( diff(root.left)-diff(root.right)); 
-        sum += root.val;
-       findTilt(root.left);
-       findTilt(root.right);
-       return sum;
+        diff(root);
+        return sum;
     }
 }
