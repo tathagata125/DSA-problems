@@ -30,8 +30,8 @@ class Solution {
          if(root == null)return 0;
        
        dfs(root);
-       maxPathSum(root.left);
-       maxPathSum(root.right);
+       /*maxPathSum(root.left);
+       maxPathSum(root.right);*/
        return max ;
     }
 }
