@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/tathagata125/DSA-problems/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/tathagata125/DSA-problems/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/tathagata125/DSA-problems/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/tathagata125/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/tathagata125/DSA-problems/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/tathagata125/DSA-problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/tathagata125/DSA-problems/tree/master/0735-asteroid-collision) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tathagata125/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/tathagata125/DSA-problems/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/tathagata125/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tathagata125/DSA-problems/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/tathagata125/DSA-problems/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/tathagata125/DSA-problems/tree/master/1603-running-sum-of-1d-array) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tathagata125/DSA-problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/tathagata125/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/tathagata125/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0931-maximum-frequency-stack](https://github.com/tathagata125/DSA-problems/tree/master/0931-maximum-frequency-stack) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tathagata125/DSA-problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
