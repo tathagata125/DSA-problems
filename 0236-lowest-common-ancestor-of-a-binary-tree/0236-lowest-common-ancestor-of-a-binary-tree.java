@@ -8,47 +8,34 @@
  * }
  */
 class Solution {
-    ArrayList<ArrayList<TreeNode>> list ;
-    void dfs(TreeNode root, TreeNode p , ArrayList<TreeNode>output){
-        if(root == null)return;
-        if(root == p){
-            output.add(root);
-            list.add(new ArrayList<>(output));
-            
-            return;
+    TreeNode node;
+    TreeNode dfs(TreeNode root, TreeNode p , TreeNode q){
+        if(root == null)return null;
+        
+        TreeNode left = dfs(root.left,p,q);
+        TreeNode right = dfs(root.right, p,q);
+        if(left != null && right != null){
+            node=root;
+            return node;
         }
-        output.add(root);
-        dfs(root.left, p,output);
-
+        else if(left != null ){
+            if(root == p)return p;
+            if(root == q)return q;
+            return left;
+        }
+        else if(right != null){
+            if(root == p)return p;
+            if(root == q)return q;
+            return right;
+        }
+        if(root == p)return p;
+        if(root == q)return q;
         
-        dfs(root.right, p,output);
-        output.remove(output.size()-1);
-        
-
+        return null;
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        list = new ArrayList<>();
-        ArrayList<TreeNode> output = new ArrayList<>();
-       ArrayList<TreeNode> output1 = new ArrayList<>();
-        dfs(root,p,output);
-        dfs(root,q,output1);
-       
-        for(int i = 0; i < list.get(0).size(); i++){
-            System.out.print(list.get(0).get(i).val);
-        }
-        System.out.println();
-        for(int j = 0; j < list.get(1).size(); j++){
-            System.out.print(list.get(1).get(j).val);
-        }
-        int i= 0;
-        int j= 0;
-        while (i < list.get(0).size() && j < list.get(1).size() && list.get(0).get(i).val == list.get(1).get(j).val){
-
-            System.out.println(list.get(0).get(i).val);
-            System.out.println(list.get(1).get(j).val);
-            i++;
-            j++;
-        }
-        return list.get(0).get(i-1);
+        node = new TreeNode();
+        
+        return dfs(root, p, q);
     }
 }
