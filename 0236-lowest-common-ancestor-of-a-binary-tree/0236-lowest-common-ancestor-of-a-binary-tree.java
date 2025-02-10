@@ -8,15 +8,15 @@
  * }
  */
 class Solution {
-    TreeNode node;
+    
     TreeNode dfs(TreeNode root, TreeNode p , TreeNode q){
         if(root == null)return null;
         
         TreeNode left = dfs(root.left,p,q);
         TreeNode right = dfs(root.right, p,q);
         if(left != null && right != null){
-            node=root;
-            return node;
+            
+            return root;
         }
         else if(left != null ){
             if(root == p)return p;
@@ -34,7 +34,7 @@ class Solution {
         return null;
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        node = new TreeNode();
+        
         
         return dfs(root, p, q);
     }
