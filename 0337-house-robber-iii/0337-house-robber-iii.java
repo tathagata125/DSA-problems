@@ -28,8 +28,8 @@ class Solution {
         Pair p = new Pair();
         Pair l = dfs(root.left);
         Pair r = dfs(root.right);
-        p.no = l.yes + r.yes;
-        p.yes = Math.max(p.no, root.val + l.no + r.no);
+        p.yes = root.val + l.no + r.no;
+        p.no = Math.max(l.yes, l.no) + Math.max(r.yes, r.no);
         return p;
     }
     public int rob(TreeNode root) {
