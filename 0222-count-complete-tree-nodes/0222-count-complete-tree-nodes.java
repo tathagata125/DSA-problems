@@ -14,15 +14,20 @@
  * }
  */
 class Solution {
-    int count = 0;
-    void dfs(TreeNode root){
-        if(root == null)return ;
-        count++;
-        dfs(root.left);
-        dfs(root.right);
+    
+    int  left(TreeNode root){
+        if(root == null)return 0;
+        return 1+left(root.left);
+    }
+    int right(TreeNode root){
+        if(root == null)return 0;
+        return 1+right(root.right);
     }
     public int countNodes(TreeNode root) {
-        dfs(root);
-        return count;
+        if(root == null)return 0;
+        int left = left(root);
+        int right = right(root);
+        if(left == right)return (1<<left)-1;
+        return 1+countNodes(root.left)+countNodes(root.right);
     }
 }
