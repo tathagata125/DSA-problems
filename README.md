@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/tathagata125/DSA-problems/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/tathagata125/DSA-problems/tree/master/1008-binary-tree-cameras) |
 | [1484-linked-list-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/tathagata125/DSA-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/tathagata125/DSA-problems/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/tathagata125/DSA-problems/tree/master/1008-binary-tree-cameras) |
 | [1484-linked-list-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/tathagata125/DSA-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/tathagata125/DSA-problems/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/tathagata125/DSA-problems/tree/master/0572-subtree-of-another-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tathagata125/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/tathagata125/DSA-problems/tree/master/1008-binary-tree-cameras) |
 | [1484-linked-list-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/tathagata125/DSA-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/tathagata125/DSA-problems/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tathagata125/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/tathagata125/DSA-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/tathagata125/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tathagata125/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0931-maximum-frequency-stack](https://github.com/tathagata125/DSA-problems/tree/master/0931-maximum-frequency-stack) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tathagata125/DSA-problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
