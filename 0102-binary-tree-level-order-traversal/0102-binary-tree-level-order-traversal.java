@@ -19,26 +19,19 @@ class Solution {
         Queue<TreeNode> q = new ArrayDeque<>();
         if(root == null)return arr;
         q.add(root);
-        List<Integer> l1 = new ArrayList<>();
-        l1.add(root.val);
-        arr.add(l1);
+        
         while(q.size() > 0){
-            List<TreeNode> l = new ArrayList<>();
-            while(q.size() > 0){
+            List<Integer> l = new ArrayList<>();
+            int size = q.size();
+            for(int i = 0; i < size; i++){
                 TreeNode node = q.remove();
+                l.add(node.val);
                 if(node.left != null)
-                    l.add(node.left);
-                if(node.right != null)l.add(node.right);
+                    q.add(node.left);
+                if(node.right != null)q.add(node.right);
             }
-            for(int i = 0; i < l.size(); i++){
-                q.add(l.get(i));
-            }
-            ArrayList<Integer> l2 = new ArrayList<>();
-            for(int i =0; i < l.size(); i++){
-                l2.add((l.get(i)).val);
-            }
-            if(l2.size() > 0)
-            arr.add(l2);
+            
+            arr.add(l);
         }
         return arr;
     }
