@@ -14,17 +14,20 @@
  * }
  */
 class Solution {
-    int traverse(TreeNode root){
+   
+    int dfs(TreeNode root){
         if(root == null)return 0;
-        int left = traverse(root.left);
-        if(left == -1)return -1;
-        int right = traverse(root.right);
+        int left = dfs(root.left);
+        if(left == -1)
+            return -1;
+        int right = dfs(root.right);
         if(right == -1)return -1;
-        if(Math.abs(right - left) > 1)return -1;
+        if(Math.abs(left - right) > 1)return -1;
         return Math.max(left , right)+1;
     }
     public boolean isBalanced(TreeNode root) {
-       int t = traverse(root);
-       return t != -1;
+      int d = dfs(root);
+      return d != -1;
+      
     }
 }
