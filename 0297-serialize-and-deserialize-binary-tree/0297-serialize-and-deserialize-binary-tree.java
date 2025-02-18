@@ -30,7 +30,6 @@ public class Codec {
     }
     int idx = 0;
     TreeNode dfs(String[] data){
-        if(idx == data.length)return null;
         if(data[idx].equals( "n")){
             idx++;
             return null;
