@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tathagata125/DSA-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tathagata125/DSA-problems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/tathagata125/DSA-problems/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/tathagata125/DSA-problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tathagata125/DSA-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tathagata125/DSA-problems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/tathagata125/DSA-problems/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/tathagata125/DSA-problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/tathagata125/DSA-problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/tathagata125/DSA-problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/tathagata125/DSA-problems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/tathagata125/DSA-problems/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/tathagata125/DSA-problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tathagata125/DSA-problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tathagata125/DSA-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tathagata125/DSA-problems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/tathagata125/DSA-problems/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/tathagata125/DSA-problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tathagata125/DSA-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/tathagata125/DSA-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/tathagata125/DSA-problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/tathagata125/DSA-problems/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -597,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/tathagata125/DSA-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tathagata125/DSA-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tathagata125/DSA-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0838-design-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/tathagata125/DSA-problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/tathagata125/DSA-problems/tree/master/0860-design-circular-queue) |
