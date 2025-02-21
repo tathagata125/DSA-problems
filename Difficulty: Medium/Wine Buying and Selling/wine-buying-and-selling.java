@@ -33,49 +33,41 @@ System.out.println("~");
 
 class Solution {
     long wineSelling(int Arr[],int N){
-        int[] seller= new int[Arr.length];
+        // code here
+        int[] seller = new int[Arr.length];
         int[] buyer = new int[Arr.length];
-        for(int i = 0; i < N; i++){
-            if(Arr[i] < 0){
-                seller[i]=-Arr[i];
-            }
-            else{
-                buyer[i] = Arr[i];
-            }
+        for(int i = 0; i < Arr.length; i++){
+            if(Arr[i] < 0)seller[i] = -Arr[i];
+            if(Arr[i] > 0)buyer[i] = Arr[i];
         }
-        int s = 0;
-        int b = 0;
+        int s= 0;
+        int b= 0;
         long work = 0;
         while(s < N && b < N){
-        
-                while(s<N && seller[s] == 0 )
-                    s++;
-                
-            
-                while(b<N  && buyer[b] == 0)
-                    b++;
-                if(b ==N || s == N)break;
-                if((seller[s] - buyer[b]) < 0 ){
-                    work += ( seller[s])*Math.abs(s-b);
-                    
-                    buyer[b] = buyer[b] - seller[s];
-                    seller[s]=0;
-                }
-                else if((seller[s] - buyer[b]) > 0){
-                    work += ( buyer[b])*Math.abs(s-b);
-                   
-                    seller[s] = seller[s]-buyer[b];
-                     buyer[b]=0;
-                }
-                else{
-                    work+= buyer[b]*Math.abs(s-b);
-                    buyer[b]=0;
-                    seller[s]=0;
-                }
-            
+            while( s < N && seller[s] == 0){
+                s++;
+            }
+            while( b < N && buyer[b] == 0){
+                b++;
+            }
+            if(b == N || s == N)break;
+            if(seller[s] - buyer[b] < 0){
+                work +=(seller[s]) * Math.abs(s-b);
+                buyer[b] = buyer[b] - seller[s];
+                seller[s] = 0;
+            }
+            else if(buyer[b] - seller[s] < 0){
+                work +=( buyer[b])*Math.abs(s-b);
+                seller[s] = seller[s] - buyer[b];
+                buyer[b] = 0;
+            }
+            else {
+                work += seller[s]* Math.abs(s-b);
+                seller[s]= 0;
+                buyer[b]=0;
+            }
         }
         return work;
-        
     }
 }
 
