@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/tathagata125/DSA-problems/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/tathagata125/DSA-problems/tree/master/1008-binary-tree-cameras) |
 | [1035-cousins-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/tathagata125/DSA-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tathagata125/DSA-problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/tathagata125/DSA-problems/tree/master/0907-koko-eating-bananas) |
+| [0975-range-sum-of-bst](https://github.com/tathagata125/DSA-problems/tree/master/0975-range-sum-of-bst) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tathagata125/DSA-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/tathagata125/DSA-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/tathagata125/DSA-problems/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/tathagata125/DSA-problems/tree/master/1008-binary-tree-cameras) |
 | [1035-cousins-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/tathagata125/DSA-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/tathagata125/DSA-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tathagata125/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/tathagata125/DSA-problems/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/tathagata125/DSA-problems/tree/master/1008-binary-tree-cameras) |
 | [1035-cousins-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/tathagata125/DSA-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
