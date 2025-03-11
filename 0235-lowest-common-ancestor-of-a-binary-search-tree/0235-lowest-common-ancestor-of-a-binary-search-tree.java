@@ -9,28 +9,18 @@
  */
 
 class Solution {
-    void search(TreeNode root, TreeNode p, ArrayList<TreeNode>arr1){
-        if(root == p){
-            arr1.add(root);
-            return;
+    TreeNode search(TreeNode root, TreeNode p, TreeNode q){
+        TreeNode node = root;
+        if(p.val < root.val && q.val < root.val ){
+            node = search(root.left,p,q);
         }
-        arr1.add(root);
-        if(p.val > root.val){
-            search(root.right, p, arr1);
+        else if(p.val > root.val && q.val > root.val){
+            node=search(root.right,p,q);
         }
-        else if(p.val < root.val){
-            search(root.left, p, arr1);
-        }
+        return node;
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        ArrayList<TreeNode>arr1 = new ArrayList<>();
-        ArrayList<TreeNode>arr2 = new ArrayList<>();
-        search(root,p, arr1);
-        search(root,q,arr2);
-        int i = 0;
-        while(i < arr1.size() && i < arr2.size() && arr1.get(i) == arr2.get(i)){
-            i++;
-        }
-        return arr1.get(i-1);
+        TreeNode node = search(root, p, q);
+        return node;
     }
 }
