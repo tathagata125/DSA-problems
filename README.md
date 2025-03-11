@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/tathagata125/DSA-problems/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/tathagata125/DSA-problems/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/tathagata125/DSA-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/tathagata125/DSA-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tathagata125/DSA-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0658-find-k-closest-elements](https://github.com/tathagata125/DSA-problems/tree/master/0658-find-k-closest-elements) |
+| [0669-trim-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tathagata125/DSA-problems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/tathagata125/DSA-problems/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/tathagata125/DSA-problems/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/tathagata125/DSA-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/tathagata125/DSA-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
