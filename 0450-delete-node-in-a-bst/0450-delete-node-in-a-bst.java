@@ -19,7 +19,9 @@ class Solution {
         while(root.right != null){
             root= root.right;
         }
-        return root.val;
+        int value = root.val;
+        root = null;
+        return value;
     }
     public TreeNode deleteNode(TreeNode root, int key) {
         if(root == null)return null;
