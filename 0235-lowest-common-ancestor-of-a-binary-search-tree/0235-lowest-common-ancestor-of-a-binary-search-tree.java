@@ -9,18 +9,19 @@
  */
 
 class Solution {
-    TreeNode search(TreeNode root, TreeNode p, TreeNode q){
-        TreeNode node = root;
-        if(p.val < root.val && q.val < root.val ){
-            node = search(root.left,p,q);
+    TreeNode r = null;
+    TreeNode ancestor(TreeNode root, TreeNode p , TreeNode q){
+        if(p.val < root.val && q.val < root.val)ancestor(root.left, p, q);
+        else if(p.val > root.val && q.val > root.val)ancestor(root.right, p , q);
+        else if(p.val == root.val || q.val == root.val){
+            r= root;
         }
-        else if(p.val > root.val && q.val > root.val){
-            node=search(root.right,p,q);
+        else{
+            r= root;
         }
-        return node;
+        return r;
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        TreeNode node = search(root, p, q);
-        return node;
+        return ancestor(root, p , q);
     }
 }
