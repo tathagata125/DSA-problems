@@ -14,16 +14,36 @@
  * }
  */
 class Solution {
-    List<Integer>node;
-    void traverse(TreeNode root){
-        if(root == null)return;
-        node.add(root.val);
-        if(root.left != null)traverse(root.left);
-        if(root.right != null)traverse(root.right);
+    class Pair{
+        int  state=1;
+        TreeNode root;
+        Pair(TreeNode root){
+            this.root = root;
+        }
     }
     public List<Integer> preorderTraversal(TreeNode root) {
-        node = new ArrayList<>();
-        traverse(root);
-        return node;
+        List<Integer> preorder = new ArrayList<>();
+        Stack<Pair> st = new Stack<>();
+        if(root != null)st.push(new Pair(root));
+        while(st.size() > 0){
+            Pair node = st.peek();
+            if(node.state == 1){
+                preorder.add(node.root.val);
+                st.peek().state++;
+                if(node.root.left != null){
+                    st.push(new Pair(node.root.left));
+                }
+            }
+            else if(node.state == 2){
+                st.peek().state++;
+                if(node.root.right != null){
+                    st.push(new Pair(node.root.right));
+                }
+            }
+            else{
+                st.pop();
+            }
+        }
+        return preorder;
     }
 }
