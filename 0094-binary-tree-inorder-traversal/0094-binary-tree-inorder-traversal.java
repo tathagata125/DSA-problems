@@ -14,34 +14,33 @@
  * }
  */
 class Solution {
-    class Pair{
-        int state = 1;
-        TreeNode root;
-        Pair(TreeNode root){
-            this.root = root;
+    TreeNode floor(TreeNode root){
+        TreeNode ans = root.left;
+        while(ans.right != null && ans.right != root){
+            ans=ans.right;
         }
+        return ans;
     }
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> inorder = new ArrayList<>();
-        Stack<Pair> st = new Stack<>();
-        if(root != null)st.push(new Pair(root));
-        while(st.size() > 0){
-            Pair node = st.peek();
-            if(node.state ==1){
-                st.peek().state++;
-                if(node.root.left != null){
-                    st.push(new Pair(node.root.left));
-                }
+        List<Integer> preorder = new ArrayList<>();
+        while(root != null){
+            if(root.left == null){
+                preorder.add(root.val);
+                inorder.add(root.val);
+                root=root.right;
+                continue;
             }
-            else if(node.state == 2){
-                inorder.add(node.root.val);
-                st.peek().state++;
-                if(node.root.right != null){
-                    st.push(new Pair(node.root.right));
-                }
+            TreeNode node = floor(root);
+            if(node.right == null){
+                preorder.add(root.val);
+                node.right = root;
+                root=root.left;
             }
             else{
-                st.pop();
+                inorder.add(root.val);
+                node.right = null;
+                root= root.right;
             }
         }
         return inorder;
