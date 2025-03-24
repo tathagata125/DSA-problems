@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/tathagata125/DSA-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/tathagata125/DSA-problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tathagata125/DSA-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3430-count-days-without-meetings](https://github.com/tathagata125/DSA-problems/tree/master/3430-count-days-without-meetings) |
 ## Sorting
 |  |
 | ------- |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/tathagata125/DSA-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1095-two-city-scheduling](https://github.com/tathagata125/DSA-problems/tree/master/1095-two-city-scheduling) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3430-count-days-without-meetings](https://github.com/tathagata125/DSA-problems/tree/master/3430-count-days-without-meetings) |
 ## Math
 |  |
 | ------- |
