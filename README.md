@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/tathagata125/DSA-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/tathagata125/DSA-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tathagata125/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/tathagata125/DSA-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/tathagata125/DSA-problems/tree/master/0975-range-sum-of-bst) |
 | [1008-binary-tree-cameras](https://github.com/tathagata125/DSA-problems/tree/master/1008-binary-tree-cameras) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/tathagata125/DSA-problems/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tathagata125/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/tathagata125/DSA-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/tathagata125/DSA-problems/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tathagata125/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/tathagata125/DSA-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tathagata125/DSA-problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Shortest Path
 |  |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/tathagata125/DSA-problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/tathagata125/DSA-problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/tathagata125/DSA-problems/tree/master/0257-binary-tree-paths) |
+| [0813-all-paths-from-source-to-target](https://github.com/tathagata125/DSA-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/tathagata125/DSA-problems/tree/master/1022-unique-paths-iii) |
 | [1331-path-with-maximum-gold](https://github.com/tathagata125/DSA-problems/tree/master/1331-path-with-maximum-gold) |
 ## Design
