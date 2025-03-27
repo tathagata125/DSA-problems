@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/tathagata125/DSA-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/tathagata125/DSA-problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tathagata125/DSA-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/tathagata125/DSA-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/tathagata125/DSA-problems/tree/master/3430-count-days-without-meetings) |
 ## Sorting
 |  |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/tathagata125/DSA-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1095-two-city-scheduling](https://github.com/tathagata125/DSA-problems/tree/master/1095-two-city-scheduling) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/tathagata125/DSA-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/tathagata125/DSA-problems/tree/master/3430-count-days-without-meetings) |
 ## Math
 |  |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/tathagata125/DSA-problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tathagata125/DSA-problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tathagata125/DSA-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/tathagata125/DSA-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/tathagata125/DSA-problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
