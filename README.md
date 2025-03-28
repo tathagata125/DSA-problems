@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0669-trim-a-binary-search-tree) |
+| [0695-max-area-of-island](https://github.com/tathagata125/DSA-problems/tree/master/0695-max-area-of-island) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/tathagata125/DSA-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/tathagata125/DSA-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tathagata125/DSA-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/tathagata125/DSA-problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/tathagata125/DSA-problems/tree/master/0695-max-area-of-island) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/tathagata125/DSA-problems/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/tathagata125/DSA-problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tathagata125/DSA-problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/tathagata125/DSA-problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/tathagata125/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/tathagata125/DSA-problems/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/tathagata125/DSA-problems/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/tathagata125/DSA-problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/tathagata125/DSA-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tathagata125/DSA-problems/tree/master/0739-daily-temperatures) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/tathagata125/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/tathagata125/DSA-problems/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/tathagata125/DSA-problems/tree/master/0498-diagonal-traverse) |
+| [0695-max-area-of-island](https://github.com/tathagata125/DSA-problems/tree/master/0695-max-area-of-island) |
 | [0777-toeplitz-matrix](https://github.com/tathagata125/DSA-problems/tree/master/0777-toeplitz-matrix) |
 | [1022-unique-paths-iii](https://github.com/tathagata125/DSA-problems/tree/master/1022-unique-paths-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tathagata125/DSA-problems/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -616,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/tathagata125/DSA-problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tathagata125/DSA-problems/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/tathagata125/DSA-problems/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tathagata125/DSA-problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/tathagata125/DSA-problems/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph
