@@ -1,22 +1,19 @@
 class Solution {
-    int [] valid(String s){
-        int []freq = new int[26] ;
+    int[] valid(String s){
+        int[] arr = new int[26];
         for(char ch : s.toCharArray()){
-            freq[ch - 'a']++;
+            arr[ch - 'a']++;
         }
-        return freq;
+        return arr;
     }
     public boolean isAnagram(String s, String t) {
-        if(s.length() != t.length()){
-            return false;
-        }
-        int [] charArray1 = valid(s);
-        int [] charArray2 = valid(t);
-        for(int i =0; i<26; i++){
-            if(charArray1[i] != charArray2[i]){
+        int[] ch = valid(s);
+        int[] ch1 = valid(t);
+        for(int i = 0; i<26; i++){
+            if(ch[i] != ch1[i]){
                 return false;
             }
         }
-        return true;
+        return true; 
     }
 }
