@@ -27,20 +27,18 @@ class Sorted_Array {
 
 class Solution {
     int transitionPoint(int arr[]) {
-        if(arr[arr.length - 1] == 0){
-            return -1;
-        }
-        int l =0;
-        int h = arr.length - 1;
-        while( l <=h){
-            int mid = (l + h)/2;
+        int l = 0;
+        int r = arr.length-1;
+        while(l <= r){
+            int mid = l + (r - l)/2;
             if(arr[mid] == 1){
-                h=mid -1;
+                r = mid - 1;
             }
             else{
-                l=mid + 1;
+                l = mid + 1;
             }
         }
+        if( l == arr.length)return -1;
         return l;
     }
 }
