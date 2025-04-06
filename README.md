@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tathagata125/DSA-problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/tathagata125/DSA-problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tathagata125/DSA-problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/tathagata125/DSA-problems/tree/master/0907-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/tathagata125/DSA-problems/tree/master/0975-range-sum-of-bst) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/tathagata125/DSA-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tathagata125/DSA-problems/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/tathagata125/DSA-problems/tree/master/0777-toeplitz-matrix) |
+| [0792-binary-search](https://github.com/tathagata125/DSA-problems/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/tathagata125/DSA-problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/tathagata125/DSA-problems/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tathagata125/DSA-problems/tree/master/0882-peak-index-in-a-mountain-array) |
