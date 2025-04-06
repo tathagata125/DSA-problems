@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/tathagata125/DSA-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/tathagata125/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/tathagata125/DSA-problems/tree/master/0450-delete-node-in-a-bst) |
+| [0475-heaters](https://github.com/tathagata125/DSA-problems/tree/master/0475-heaters) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tathagata125/DSA-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/tathagata125/DSA-problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0658-find-k-closest-elements](https://github.com/tathagata125/DSA-problems/tree/master/0658-find-k-closest-elements) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/tathagata125/DSA-problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/tathagata125/DSA-problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/tathagata125/DSA-problems/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/tathagata125/DSA-problems/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/tathagata125/DSA-problems/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/tathagata125/DSA-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/tathagata125/DSA-problems/tree/master/1894-merge-strings-alternately) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/tathagata125/DSA-problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/tathagata125/DSA-problems/tree/master/0463-island-perimeter) |
+| [0475-heaters](https://github.com/tathagata125/DSA-problems/tree/master/0475-heaters) |
 | [0498-diagonal-traverse](https://github.com/tathagata125/DSA-problems/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/tathagata125/DSA-problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/tathagata125/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tathagata125/DSA-problems/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/tathagata125/DSA-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tathagata125/DSA-problems/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/tathagata125/DSA-problems/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/tathagata125/DSA-problems/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/tathagata125/DSA-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1095-two-city-scheduling](https://github.com/tathagata125/DSA-problems/tree/master/1095-two-city-scheduling) |
