@@ -1,31 +1,31 @@
 class Solution {
-    public int floorClose(int house, int[] heaters){
-        int l = 0;
-        int r = heaters.length-1;
-        while( l <= r){
-            int mid = l + (r - l)/2;
-            if(heaters[mid] < house){
-                l = mid + 1;
-            }else{
-                r = mid - 1;
+    int floor(int[] array, int target){
+        int l =0; 
+        int h=array.length -1 ;
+        while(l <= h){
+            int mid = l+ (h-l)/2 ;
+            if(array[mid] >= target){
+                h = mid  - 1;
+            }
+            else{
+                l= mid + 1;
             }
         }
-        return r;
+        return h;
     }
-    public int findClosest(int house , int[] heaters ){
-        int floor = floorClose(house, heaters);
-        System.out.println(floor);
-        int ceil = floor + 1;
-        int floorDest = (floor == -1) ? Integer.MAX_VALUE : house - heaters[floor];
-        int ceilDest = ceil == heaters.length ? Integer.MAX_VALUE : heaters[ceil] - house;
-        return Math.min(floorDest, ceilDest);
+    int radius(int[] heaters, int target){
+        int findFloor = floor(heaters,target);
+        int ceil = findFloor + 1;
+        int floorDest = findFloor == -1 ? Integer.MAX_VALUE : target - heaters[findFloor];
+        int ceilDest = ceil == heaters.length ? Integer.MAX_VALUE : heaters[ceil] - target;
+        return Math.min(floorDest,ceilDest);
     }
     public int findRadius(int[] houses, int[] heaters) {
-        int minRadius = 0;
         Arrays.sort(heaters);
+        int minRadius = 0;
         for(int house : houses){
-           int dist =  findClosest(house , heaters);
-           minRadius = Math.max(minRadius, dist);
+            int radius = radius(heaters, house);
+            minRadius = Math.max(minRadius,radius);
         }
         return minRadius;
     }
