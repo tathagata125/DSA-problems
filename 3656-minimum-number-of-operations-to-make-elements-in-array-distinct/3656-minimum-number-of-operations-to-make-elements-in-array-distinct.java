@@ -10,7 +10,6 @@ class Solution {
             }
        }
        if(lastIdx == -1)return 0;
-       System.out.println(lastIdx);
        if((lastIdx+1) % 3 != 0){
         return ((lastIdx+1)/3 + 1);
        }
