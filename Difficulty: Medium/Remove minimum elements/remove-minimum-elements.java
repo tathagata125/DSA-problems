@@ -29,27 +29,25 @@ public class Main {
 // User function Template for Java
 
 class Solution {
-    int findFloor(int[] arr, int target){
-        int l =0;
-        int h = arr.length - 1;
-        while( l <= h){
-            int mid = l + (h-l)/2 ;
-            if(arr[mid] >= target){
-                h = mid - 1;
-            }
+    // Function to find the minimum number of elements to be removed.
+    int findFloor(int[] arr , int x){
+        int left = 0;
+        int right = arr.length - 1;
+        while(left <= right){
+            int mid = left + (right - left)/2;
+            if(arr[mid] >= x)right = mid - 1;
             else{
-                l = mid + 1;
+                left = mid+1;
             }
         }
-        return h;
+        return right;
     }
     public int minRemoval(int[] arr) {
         Arrays.sort(arr);
-        int n = arr.length;
         int minRemove = Integer.MAX_VALUE;
-        for(int i =0; i<n;i++){
-            int max = findFloor(arr,2*arr[i]+1);
-            minRemove = Math.min(minRemove, n-(max - i +1));
+        for(int i=0 ; i<arr.length; i++){
+            int floor = findFloor(arr, arr[i]*2 + 1);
+            minRemove= Math.min(minRemove, arr.length - (floor - i + 1));
         }
         return minRemove;
     }
