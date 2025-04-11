@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/tathagata125/DSA-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/tathagata125/DSA-problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tathagata125/DSA-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2998-count-symmetric-integers](https://github.com/tathagata125/DSA-problems/tree/master/2998-count-symmetric-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -811,4 +812,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/tathagata125/DSA-problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/tathagata125/DSA-problems/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/tathagata125/DSA-problems/tree/master/2087-confirmation-rate) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/tathagata125/DSA-problems/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
