@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tathagata125/DSA-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tathagata125/DSA-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/tathagata125/DSA-problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/tathagata125/DSA-problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tathagata125/DSA-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/tathagata125/DSA-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/tathagata125/DSA-problems/tree/master/3430-count-days-without-meetings) |
