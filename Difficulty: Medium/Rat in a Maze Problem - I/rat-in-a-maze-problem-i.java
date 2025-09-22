@@ -1,81 +1,33 @@
-//{ Driver Code Starts
-import java.util.*;
-
-public class Main {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int t = sc.nextInt(); // Number of test cases
-        sc.nextLine();        // Consume the newline character
-
-        while (t-- > 0) {
-            String input = sc.nextLine();
-
-            // Replace ][ with ],[
-            input = input.replace("][", "],[");
-
-            ArrayList<ArrayList<Integer>> mat = new ArrayList<>();
-            String[] rows = input.split("],\\s*\\[");
-
-            for (String row : rows) {
-                row = row.replaceAll("[\\[\\]]", ""); // Remove any surrounding brackets
-                ArrayList<Integer> intRow = new ArrayList<>();
-                for (String num : row.split(",")) {
-                    intRow.add(Integer.parseInt(num.trim()));
-                }
-                mat.add(intRow);
-            }
-
-            Solution obj = new Solution();
-            ArrayList<String> result = obj.findPath(mat);
-
-            if (result.isEmpty()) {
-                System.out.println("[]");
-            } else {
-                for (String res : result) {
-                    System.out.print(res + " ");
-                }
-                System.out.println();
-            }
-            System.out.println("~");
-        }
-        sc.close();
-    }
-}
-
-// } Driver Code Ends
-
-
-// User function Template for Java
-
 class Solution {
-    static Set<String>paths;
-    public void getAllPaths(ArrayList<ArrayList<Integer>> mat,int row, int col, 
-    String path, boolean[][]visited){
-        if(col < 0 || row < 0 || col == mat.get(0).size() || row == mat.size()){
+    ArrayList<String> result;
+    // Function to find all possible paths
+    void allPaths(int[][]maze, int row, int col,String output){
+        if(row < 0 || col < 0 || row == maze.length || col == maze[0].length){
             return;
         }
-        if(visited[row][col] == true || mat.get(row).get(col) == 0){
-            return ;
-        }
-        if(row == mat.size() - 1 && col == mat.get(0).size() - 1){
-            paths.add(path);
+        if(maze[row][col] == -1 || maze[row][col] == 0){
             return;
         }
-        visited[row][col] = true;
-        getAllPaths(mat, row + 1, col, path + "D",visited);
-        getAllPaths(mat,row,col + 1,path+ "R",visited);
-        getAllPaths(mat,row-1,col,path+"U",visited);
-        getAllPaths(mat,row,col-1,path + "L",visited);
-        visited[row][col] = false;
+        if(row == maze.length - 1 && col == maze[0].length-1){
+            result.add(output);
+            return;
+        }
+        maze[row][col] = -1;
+        allPaths(maze, row + 1, col , output + "D" );
+        allPaths(maze, row , col-1 , output + "L" );
+        allPaths(maze, row , col+1 , output + "R" );
+        allPaths(maze, row - 1, col , output + "U" );
+        
+        
+        
+        maze[row][col] = 1;
+        
     }
-    public ArrayList<String> findPath(ArrayList<ArrayList<Integer>> mat) {
-        paths = new HashSet<>();
-        int n = mat.size();
-        int m = mat.get(0).size();
-        boolean[][] visited = new boolean[n][m];
-        getAllPaths(mat,0,0,"",visited);
-        ArrayList<String> pathset = new ArrayList<>(paths);
-        Collections.sort(pathset);
-        return pathset;
+    public ArrayList<String> ratInMaze(int[][] maze) {
+        // code here
+        result = new ArrayList<>();
+        allPaths(maze,0,0,"");
+        return result;
     }
+    
 }
