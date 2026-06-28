@@ -1,22 +1,19 @@
 class Solution {
-    int decode(String s, int[] dig, int idx){
-        if(s.length() == 0){
-            return 1;
-        }
-        if(dig[idx] != 0)return dig[idx];
-        if(s.charAt(0) == '0')return 0;
-        int one = decode(s.substring(1), dig, idx-1);
-        if(s.length() == 1 )return one;
-        String st = s.substring(0,2);
-        int temp = Integer.parseInt(st);
-        if(temp > 26)return one;
-        int two = decode(s.substring(2), dig, idx-2);
-
-        return dig[idx] = one + two;
-    }
+    
     public int numDecodings(String s) {
-        if(s.charAt(0) == '0')return 0;
-        int[] dig = new int[s.length()];
-        return decode(s,dig,s.length()-1 );
+        int[] dp = new int[s.length()+1];
+        dp[s.length()]= 1;
+        for(int i = s.length() -1 ; i >= 0 ; i--){
+            if(s.charAt(i) != '0')
+                dp[i] += dp[i+1];
+            
+            if(i+1 < s.length()){
+                int temp = (s.charAt(i)- '0')*10 + (s.charAt(i+1)- '0');
+                if(temp >= 10 && temp <= 26){
+                    dp[i] += dp[i+2];
+                }
+            }
+        } 
+        return dp[0];
     }
 }
